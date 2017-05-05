@@ -2,4 +2,4 @@ compile:
 --------
 	g++ a.cpp
 --------
-* ex: Windows needs to add environment path
+* ex: Windows may needs to add environment path
