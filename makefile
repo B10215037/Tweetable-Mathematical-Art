@@ -1,1 +1,2 @@
-g++ a.cpp -std=c++11
+all: a.cpp
+	g++ a.cpp -std=c++11
